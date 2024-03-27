@@ -2,7 +2,7 @@
 
 ## Credits
 Original Project: Lax1Dude
-<br>
+<br>cd server && sudo java -jar server.jar
 Original Server Fork: EcoliEater87
 <br>
 ## Setup Guide
@@ -17,12 +17,19 @@ now you have your own free server instance to host eaglercraft. Next you need to
 create 2 terminal tabs and paste in the following snipits:
 <br>
 <br>
-first tab: `cd server && sudo java -jar server.jar`
+first tab: ``
 <br>
 <br>
-second tab: `cd bungee && sudo java -jar bungee.jar`
+second tab: ``cd server && sudo java -jar server.jar
 <br>
 <br>
 Now go to the ports area and forward (and make public) ports `25565` and `8081`
 <br>
 Your eaglercraft server is setup!
+
+
+
+
+fasdfcd 
+cd bungee && sudo java -jar bungee.jar
+cd bungee && sudo java -jar bungee.jar
