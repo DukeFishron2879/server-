@@ -1,0 +1,21 @@
+lastAccountName: roblcoms
+timestamps:
+  login: 1715090438150
+  kits:
+    tools: 1714505715940
+  logout: 1715090448772
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: lobby_main
+  x: 14116.38375353115
+  y: 63.0
+  z: 124044.33890723153
+  yaw: 152.10002
+  pitch: 25.050001
+logoutlocation:
+  world: world
+  x: -780.1334223970415
+  y: 79.0
+  z: 145.02729906921704
+  yaw: -176.97714
+  pitch: 23.79242

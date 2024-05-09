@@ -1,0 +1,22 @@
+lastAccountName: HEYWILLWHATWERE
+timestamps:
+  login: 1715123018459
+  logout: 1715123373548
+  kits:
+    tools: 1715040064172
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: amp
+  x: 17814.318805331794
+  y: 82.0
+  z: 29815.099417118498
+  yaw: -51.900005
+  pitch: 90.0
+logoutlocation:
+  world: amp
+  x: 17670.45216579046
+  y: 78.0
+  z: 29902.627194392193
+  yaw: 276.15015
+  pitch: 26.699995
+afk: false

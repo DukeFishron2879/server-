@@ -1,0 +1,19 @@
+lastAccountName: sullivan
+timestamps:
+  login: 1715100685528
+  logout: 1715101176512
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: lobby_main
+  x: 14100.73487823602
+  y: 64.0
+  z: 124088.30974007979
+  yaw: 56.700043
+  pitch: 35.399994
+lastlocation:
+  world: anarchy
+  x: 958.3000000119209
+  y: 70.0
+  z: 968.3888887387816
+  yaw: 136.31256
+  pitch: 44.999996

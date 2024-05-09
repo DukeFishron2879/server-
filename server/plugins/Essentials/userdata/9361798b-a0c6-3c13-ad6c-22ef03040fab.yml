@@ -1,0 +1,25 @@
+lastAccountName: hithereguys
+timestamps:
+  login: 1715278556561
+  logout: 1715278670799
+  kits:
+    tools: 1715269044194
+  jail: 0
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 7749.778298067571
+  y: 84.0
+  z: 6193.393907828166
+  yaw: 94.20001
+  pitch: 24.600002
+lastlocation:
+  world: survival
+  x: 115.69999998807907
+  y: 54.0
+  z: 414.30000001192093
+  yaw: 65.70586
+  pitch: 21.431252
+afk: false
+money: '10.0'
+jailed: false

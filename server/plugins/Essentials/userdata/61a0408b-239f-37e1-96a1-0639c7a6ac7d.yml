@@ -1,0 +1,25 @@
+lastAccountName: chilly_willy364
+timestamps:
+  login: 1715278831965
+  logout: 1715278860180
+  kits:
+    tools: 1715210992785
+  jail: 0
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: amp
+  x: 26184.742892568975
+  y: 73.0
+  z: 37440.449376117365
+  yaw: 185.85002
+  pitch: 4.5000005
+lastlocation:
+  world: amp
+  x: 26146.861639131028
+  y: 73.0
+  z: 37390.23237393922
+  yaw: 323.6486
+  pitch: 29.648542
+afk: false
+jailed: false
+money: '392.0'

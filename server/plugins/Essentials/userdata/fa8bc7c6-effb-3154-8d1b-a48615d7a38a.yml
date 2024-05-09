@@ -1,0 +1,22 @@
+lastAccountName: lijahpijah8
+timestamps:
+  login: 1715275160456
+  logout: 1715276723321
+  jail: 0
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survivalpr
+  x: -56.506601910067175
+  y: 70.0
+  z: -116.65132329679909
+  yaw: -168.30002
+  pitch: 44.250004
+lastlocation:
+  world: survivalprn
+  x: -21.52553083055014
+  y: 70.0
+  z: 32.60124241346321
+  yaw: 11.850006
+  pitch: 71.55
+afk: false
+jailed: false

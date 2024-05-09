@@ -1,0 +1,25 @@
+lastAccountName: KArs
+timestamps:
+  login: 1715278598694
+  logout: 1715278832780
+  kits:
+    tools: 1715194630886
+  jail: 0
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: amp
+  x: 111.30000001192093
+  y: 63.0
+  z: -43.42182090009104
+  yaw: 74.36719
+  pitch: -5.21875
+lastlocation:
+  world: amp
+  x: 1.1427866996683036
+  y: 83.0
+  z: -13.616565798098282
+  yaw: -254.98438
+  pitch: 26.859375
+afk: false
+jailed: false
+money: '1'

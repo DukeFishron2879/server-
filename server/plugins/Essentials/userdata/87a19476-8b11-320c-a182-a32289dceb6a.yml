@@ -1,0 +1,22 @@
+lastAccountName: KIWIOLO
+timestamps:
+  login: 1715263501822
+  logout: 1715263530086
+  kits:
+    tools: 1715123945612
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: anarchy
+  x: 27092.38955303747
+  y: 18.0
+  z: 14683.300000011921
+  yaw: -160.45312
+  pitch: 61.101562
+lastlocation:
+  world: anarchy
+  x: 27137.69999998808
+  y: 14.0
+  z: 14575.473608794504
+  yaw: -161.75
+  pitch: 5.8671875
+afk: false

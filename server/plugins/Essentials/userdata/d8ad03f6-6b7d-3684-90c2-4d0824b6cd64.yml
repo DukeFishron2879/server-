@@ -1,0 +1,22 @@
+lastAccountName: letmetalk
+timestamps:
+  login: 1714618308369
+  logout: 1714593185949
+  kits:
+    tools: 1714573827115
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: amp
+  x: -7.300000011920929
+  y: 69.0
+  z: 10.67425315486719
+  yaw: -154.11719
+  pitch: 42.990623
+logoutlocation:
+  world: amp
+  x: 359.05218538605635
+  y: 45.0
+  z: -74.69999998807907
+  yaw: 167.70007
+  pitch: 42.000004
+afk: false

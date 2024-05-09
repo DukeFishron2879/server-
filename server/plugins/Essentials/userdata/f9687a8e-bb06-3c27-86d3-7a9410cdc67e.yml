@@ -1,0 +1,19 @@
+lastAccountName: niceguy3000
+timestamps:
+  login: 1715176747424
+  logout: 1715177235617
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: lobby_main
+  x: 14107.581079593916
+  y: 68.0
+  z: 124089.81492925639
+  yaw: 71.400085
+  pitch: 43.500004
+logoutlocation:
+  world: lobby_main
+  x: 14109.850107303597
+  y: 68.0
+  z: 124092.44799314138
+  yaw: -19.950043
+  pitch: 37.950005

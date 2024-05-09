@@ -1,0 +1,23 @@
+lastAccountName: dukefishron28
+timestamps:
+  login: 1715278660203
+  kits:
+    tools: 1715266303074
+  logout: 1715278668476
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: amp
+  x: 583.3000000119209
+  y: 20.0
+  z: -496.5701601953234
+  yaw: 120.484375
+  pitch: 13.796875
+lastlocation:
+  world: survivalpr
+  x: -106.87143940082095
+  y: 63.0
+  z: -146.02693192815667
+  yaw: -11.7421875
+  pitch: 9.8125
+afk: false
+money: '187462.0'

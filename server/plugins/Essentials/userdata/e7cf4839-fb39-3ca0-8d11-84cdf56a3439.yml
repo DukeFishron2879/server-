@@ -1,0 +1,22 @@
+lastAccountName: BayerASSpirin
+timestamps:
+  login: 1715278707589
+  kits:
+    tools: 1715192697859
+  logout: 1715278700751
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: amp
+  x: 235.17500001192093
+  y: 50.0
+  z: 91.58520560711531
+  yaw: 211.50002
+  pitch: 39.750004
+lastlocation:
+  world: amp
+  x: 236.93462406176292
+  y: 50.0
+  z: 89.62836050425854
+  yaw: 296.40002
+  pitch: 40.500004
+afk: false

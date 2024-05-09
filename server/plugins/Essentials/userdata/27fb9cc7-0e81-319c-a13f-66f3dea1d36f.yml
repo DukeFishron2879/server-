@@ -1,0 +1,23 @@
+lastAccountName: ItsPounce
+timestamps:
+  login: 1714592316701
+  kits:
+    tools: 1714592391500
+  logout: 1714593047413
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: amp
+  x: 14.481767923072352
+  y: 78.0
+  z: -13.699999988079071
+  yaw: 169.48434
+  pitch: 11.35184
+nickname: you
+logoutlocation:
+  world: amp
+  x: 17.570980452938613
+  y: 83.0
+  z: -13.26801991651838
+  yaw: -91.02346
+  pitch: 22.600857
+afk: false

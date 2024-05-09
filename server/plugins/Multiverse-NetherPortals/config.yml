@@ -1,0 +1,42 @@
+bounceback: true
+worlds:
+  amp:
+    portalgoesto:
+      NETHER: ampn
+      END: ampe
+  ampn:
+    portalgoesto:
+      NETHER: amp
+  anarchy:
+    portalgoesto:
+      NETHER: anarchyn
+      END: anarchye
+  anarchyn:
+    portalgoesto:
+      NETHER: anarchy
+  anarchye:
+    portalgoesto:
+      END: anarchy
+  survivalpr:
+    portalgoesto:
+      NETHER: survivalprn
+      END: survivalpre
+  survivalprn:
+    portalgoesto:
+      NETHER: survivalpr
+  survivalpre:
+    portalgoesto:
+      END: survivalpr
+  ampe:
+    portalgoesto:
+      END: amp
+  survival:
+    portalgoesto:
+      NETHER: survivaln
+      END: survivale
+  survivaln:
+    portalgoesto:
+      NETHER: survival
+  survivale:
+    portalgoesto:
+      END: survival

@@ -1,0 +1,20 @@
+lastAccountName: ________________
+timestamps:
+  login: 1715278606131
+  logout: 1715278795617
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 41616.30086252997
+  y: 66.0
+  z: 49359.80078625121
+  yaw: -0.15000002
+  pitch: -19.949993
+lastlocation:
+  world: lobby_main
+  x: 9747.369391755516
+  y: 66.0
+  z: 2727.9701469142515
+  yaw: 109.80001
+  pitch: 42.150005
+afk: false

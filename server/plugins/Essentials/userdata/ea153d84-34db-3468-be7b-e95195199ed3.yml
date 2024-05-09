@@ -1,0 +1,19 @@
+lastAccountName: ABC123
+timestamps:
+  login: 1715108870555
+  logout: 1715108910252
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: amp
+  x: 17.467028900677075
+  y: 81.0
+  z: -22.80309470115354
+  yaw: -301.7172
+  pitch: 22.140623
+logoutlocation:
+  world: amp
+  x: 3.7097311821133303
+  y: 83.0
+  z: -2.8321230724287116
+  yaw: -221.91719
+  pitch: 22.890623

@@ -1,0 +1,33 @@
+# Multiverse-Inventories Groups
+
+# To ADD, DELETE, and EDIT groups use the command /mvinv group.
+# No support will be given for those who manually edit these groups.
+groups:
+  default:
+    worlds:
+    - world
+    - world_the_end
+    - world_nether
+    shares:
+    - all
+  pr:
+    worlds:
+    - survivalpre
+    - survivalpr
+    - survivalprn
+    shares:
+    - all
+  amp:
+    worlds:
+    - amp
+    - ampn
+    - ampe
+    shares:
+    - all
+  survival:
+    worlds:
+    - survival
+    - survivaln
+    - survivale
+    shares:
+    - all

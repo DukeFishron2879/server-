@@ -1,0 +1,20 @@
+lastAccountName: Squibbles27
+timestamps:
+  login: 1714577824571
+  logout: 1714578940619
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: survival
+  x: -41.47761744462506
+  y: 66.24918707874468
+  z: 64.28500300867125
+  yaw: -255.22658
+  pitch: 4.7999926
+logoutlocation:
+  world: survival
+  x: -78.99706173661184
+  y: 91.0
+  z: 283.15513215275314
+  yaw: -72.00147
+  pitch: 12.150002
+afk: false

@@ -1,0 +1,49 @@
+Properties:
+  Enabled: true
+  Default: '{victim} was slain by {attacker}''s {ability}'
+Air:
+  AirBlast: '{victim} was flung by {attacker}''s {ability}'
+  AirBurst: '{victim} was thrown down by {attacker}''s {ability}'
+  AirSwipe: '{victim} was struck by {attacker}''s {ability}'
+  Suffocate: '{victim} was asphyxiated by {attacker}''s {ability}'
+Water:
+  IceBlast: '{victim} was shattered by {attacker}''s {ability}'
+  Torrent: '{victim} was taken down by {attacker}''s {ability}'
+  IceSpike: '{victim} was impaled by {attacker}''s {ability}'
+  WaterManipulation: '{victim} was taken down by {attacker}''s {ability}'
+  WaterArmsPunch: '{victim} was too slow for {attacker}''s {ability}'
+  WaterArmsFreeze: '{victim} was frozen by {attacker}''s {ability}'
+  WaterArmsSpear: '{victim} was speared to death by {attacker}''s {ability}'
+  OctopusForm: '{victim} was slapped by {attacker}''s {ability}'
+  Bloodbending: '{victim} was destroyed by {attacker}''s {ability}'
+Earth:
+  Collapse: '{victim} was suffocated by {attacker}''s {ability}'
+  EarthBlast: '{victim} was broken apart by {attacker}''s {ability}'
+  EarthSmash: '{victim} was crushed by {attacker}''s {ability}'
+  LavaFlow: '{victim} was caught in by {attacker}''s {ability}'
+  MetalClips: '{victim} was too slow for {attacker}''s {ability}'
+  Shockwave: '{victim} was blown away by {attacker}''s {ability}'
+Fire:
+  FireBlast: '{victim} was burnt by {attacker}''s {ability}'
+  Blaze: '{victim} was burned alive by {attacker}''s {ability}'
+  WallOfFire: '{victim} ran into {attacker}''s {ability}'
+  Lightning: '{victim} was electrocuted by {attacker}''s {ability}'
+  Combustion: '{victim} was shot down by {attacker}''s {ability}'
+  FireBurst: '{victim} was blown apart by {attacker}''s {ability}'
+  FireShield: '{victim} scorched theirself on {attacker}''s {ability}'
+Chi:
+  QuickStrike: '{victim} was struck down by {attacker}''s {ability}'
+  SwiftKick: '{victim} was kicked to the floor by {attacker}''s {ability}'
+  RapidPunch: '{victim} took all the hits against {attacker}''s {ability}'
+Combo:
+  AirSweep: '{victim} was swept away by {attacker}''s {ability}'
+  FireKick: '{victim} was kicked to the floor with flames by {attacker}''s {ability}'
+  FireSpin: '{victim} was caught in {attacker}''s {ability} inferno'
+  JetBlaze: '{victim} was blasted away by {attacker}''s {ability}'
+  FireWheel: '{victim} was incinerated by {attacker}''s {ability}'
+  IceBullets: '{victim}''s heart was frozen by {attacker}''s {ability}'
+HorizontalVelocity:
+  AirBlast: '{victim} experienced kinetic damage by {attacker}''s {ability}'
+  AirBurst: '{victim} experienced kinetic damage by {attacker}''s {ability}'
+  AirSuction: '{victim} experienced kinetic damage by {attacker}''s {ability}'
+  Bloodbending: '{victim} experienced kinetic damage by {attacker}''s {ability}'

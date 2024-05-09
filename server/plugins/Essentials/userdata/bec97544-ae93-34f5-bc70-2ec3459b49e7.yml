@@ -1,0 +1,22 @@
+lastAccountName: _UwU_
+timestamps:
+  login: 1715270413266
+  logout: 1715270420532
+  kits:
+    tools: 1715194579328
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: amp
+  x: 22218.0
+  y: 87.90071086321868
+  z: 47409.0
+  yaw: -23.700003
+  pitch: 55.650005
+logoutlocation:
+  world: amp
+  x: 22236.93307464314
+  y: 87.0
+  z: 47440.86977372831
+  yaw: 26.550003
+  pitch: 76.799995
+afk: false

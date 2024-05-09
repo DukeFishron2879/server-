@@ -1,0 +1,21 @@
+lastAccountName: CON
+timestamps:
+  login: 1715183676500
+  kits:
+    tools: 1715183476089
+  logout: 1715183692598
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: amp
+  x: 408.51163436206735
+  y: 68.0
+  z: -3186.3602587920986
+  yaw: -51.900032
+  pitch: 16.499998
+logoutlocation:
+  world: amp
+  x: 408.9936693544187
+  y: 69.0
+  z: -3192.3629038345375
+  yaw: 45.9
+  pitch: -7.9499993

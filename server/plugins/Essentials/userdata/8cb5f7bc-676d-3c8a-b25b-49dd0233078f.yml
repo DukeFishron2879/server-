@@ -1,0 +1,26 @@
+lastAccountName: dukeypookie
+timestamps:
+  login: 1715275526628
+  kits:
+    foods: 1714052665898
+    tools: 1714507048419
+    food: 1714008935117
+  logout: 1715275733667
+  lastteleport: 1715182620710
+ipAddress: 0:0:0:0:0:0:0:1
+afk: false
+logoutlocation:
+  world: survivalpr
+  x: 83.52699869489477
+  y: 20.0
+  z: -971.2412848385945
+  yaw: 18.140625
+  pitch: 17.734375
+lastlocation:
+  world: survivalpr
+  x: -54.7004515038325
+  y: 68.0
+  z: -206.91428580886884
+  yaw: 180.46094
+  pitch: 70.25
+money: '11669983.50'

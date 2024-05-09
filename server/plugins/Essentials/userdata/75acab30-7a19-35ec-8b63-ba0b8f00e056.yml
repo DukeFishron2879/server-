@@ -1,0 +1,22 @@
+lastAccountName: Caleb_Krob
+timestamps:
+  login: 1715278654470
+  logout: 1715278687750
+  kits:
+    tools: 1715095602121
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survivalpr
+  x: -47.618290311219866
+  y: 68.0
+  z: -94.59978910527802
+  yaw: -125.849915
+  pitch: 90.0
+lastlocation:
+  world: survivalpr
+  x: -58.86485036726124
+  y: 64.0
+  z: -95.65643545448403
+  yaw: -165.75003
+  pitch: 10.199993
+afk: false

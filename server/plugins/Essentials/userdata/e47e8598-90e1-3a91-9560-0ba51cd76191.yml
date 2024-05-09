@@ -1,0 +1,27 @@
+lastAccountName: Olliedabest69
+timestamps:
+  login: 1715278515537
+  lastteleport: 1714570988869
+  kits:
+    tools: 1715193532553
+    food: 1714052823137
+  logout: 1715278699150
+  jail: 0
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: amp
+  x: 56.69999998807907
+  y: 74.8265703125
+  z: -84.31088301588565
+  yaw: 14.796875
+  pitch: 25.179688
+logoutlocation:
+  world: amp
+  x: 19.267875317889033
+  y: 83.0
+  z: -15.266029512405192
+  yaw: 287.41406
+  pitch: 12.375
+afk: false
+money: '2841611.25'
+jailed: false

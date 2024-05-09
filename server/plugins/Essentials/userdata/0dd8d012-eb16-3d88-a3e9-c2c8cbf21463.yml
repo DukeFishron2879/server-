@@ -1,0 +1,22 @@
+lastAccountName: beguer
+timestamps:
+  login: 1714596029394
+  logout: 1714596189354
+  kits:
+    tools: 1714592771572
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 110.22447827774705
+  y: 54.0
+  z: 414.30000001192093
+  yaw: 5.1059
+  pitch: 31.202723
+lastlocation:
+  world: survival
+  x: 110.45702758575874
+  y: 48.0
+  z: 415.82195413045224
+  yaw: -168.21104
+  pitch: 17.87065
+afk: false

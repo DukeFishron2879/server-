@@ -1,0 +1,22 @@
+lastAccountName: rric
+timestamps:
+  login: 1715274760139
+  logout: 1715274961256
+  kits:
+    tools: 1715089626214
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: survival
+  x: 106.01249998807907
+  y: 66.0
+  z: 404.69999998807907
+  yaw: 260.40002
+  pitch: 34.800003
+logoutlocation:
+  world: survival
+  x: 7760.266534373936
+  y: 83.0
+  z: 6186.572279039615
+  yaw: 86.85008
+  pitch: -14.25001
+afk: false
