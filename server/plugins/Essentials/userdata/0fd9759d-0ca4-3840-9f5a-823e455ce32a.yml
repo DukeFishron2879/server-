@@ -1,0 +1,30 @@
+lastAccountName: touchytouchyman
+timestamps:
+  login: 1723928624030
+  logout: 1723928958985
+  lastteleport: 1723855441960
+ipAddress: 0:0:0:0:0:0:0:1
+homes:
+  home:
+    world: survival
+    x: 23908.192185621225
+    y: 65.0
+    z: 18839.189356979055
+    yaw: -86.556244
+    pitch: 21.74375
+lastlocation:
+  world: survival
+  x: 23905.69999998808
+  y: 10.0
+  z: 18848.30000001192
+  yaw: 332.3938
+  pitch: 90.0
+logoutlocation:
+  world: survival
+  x: 23902.462875835383
+  y: 65.0
+  z: 18813.86401866725
+  yaw: 168.14404
+  pitch: 33.449993
+money: '3712.0'
+afk: false

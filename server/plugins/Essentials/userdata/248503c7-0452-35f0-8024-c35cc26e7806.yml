@@ -1,0 +1,33 @@
+lastAccountName: Eecfinip
+timestamps:
+  login: 1723938648366
+  kits:
+    tools: 1723928716082
+  logout: 1723938645795
+  lastteleport: 1723925959965
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 42817.365198144995
+  y: 65.0
+  z: 37202.6151958336
+  yaw: -40.534054
+  pitch: 58.949257
+homes:
+  home:
+    world: survivaln
+    x: 2456.3236918234766
+    y: 67.0
+    z: 1644.4487806186494
+    yaw: -21.990469
+    pitch: 2.5774422
+lastlocation:
+  world: survivaln
+  x: 27412.37691869391
+  y: 128.0
+  z: 4018.564502018048
+  yaw: -266.83856
+  pitch: -3.907209
+money: '640.0'
+afk: false
+nickname: Sammy

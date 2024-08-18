@@ -1,0 +1,24 @@
+lastAccountName: duke
+timestamps:
+  login: 1723925623178
+  logout: 1723926261603
+  lastteleport: 1723925983965
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: survival
+  x: -2.1829461364277254
+  y: 69.0
+  z: -0.699999988079071
+  yaw: -11.5078125
+  pitch: -21.328125
+logoutlocation:
+  world: parkour
+  x: -32.02504166943368
+  y: 55.0
+  z: 19.218609452308513
+  yaw: -97.59375
+  pitch: 12.453125
+homes: {}
+afk: false
+nickname: santa
+money: '15186.0'

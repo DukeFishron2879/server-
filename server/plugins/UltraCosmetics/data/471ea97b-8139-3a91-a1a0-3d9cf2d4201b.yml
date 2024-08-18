@@ -1,0 +1,37 @@
+Keys: 3
+Gadgets-Enabled: true
+Third-Person-Morph-View: false
+Treasure-Notifications: false
+Filter-By-Owned: true
+enabled:
+  gadgets: smashdown
+Ammo: {}
+Unlocked:
+- HATS:BrownMooshroom
+- MOUNTS:MoltenSnake
+- SUITS_CHESTPLATE:Diamond
+- MOUNTS:Rudolph
+- PROJECTILE_EFFECTS:CursedHelix
+- GADGETS:PaintballGun
+- SUITS_CHESTPLATE:Astronaut
+- GADGETS:SmashDown
+- GADGETS:PartyPopper
+- SUITS_BOOTS:Frozen
+- GADGETS:TNT
+- PROJECTILE_EFFECTS:Redstone
+- DEATH_EFFECTS:Firework
+- MOUNTS:InfernalHorror
+- MOUNTS:Mule
+- HATS:ScaryClown
+- SUITS_LEGGINGS:Slime
+- GADGETS:FleshHook
+- MOUNTS:MountOfWater
+- PROJECTILE_EFFECTS:Snow
+- GADGETS:Parachute
+- HATS:Diamond
+- PROJECTILE_EFFECTS:Spark
+- SUITS_CHESTPLATE:Frozen
+- GADGETS:Rocket
+- HATS:Strider
+- GADGETS:DiscoBall
+- GADGETS:GhostParty

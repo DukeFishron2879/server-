@@ -1,0 +1,74 @@
+#
+#----------------------######################---------------------------
+#                            ChatFilter v1.1 by Omidius
+#----------------------######################---------------------------
+# 
+# This is a lightweight plugin designed to prevent players from using certain words on your server.
+# You can toggle whether you want to filter our the words and replace them with '*'s or just cancel
+# the entire message and send the player a set message for using prohibited language on your server!
+#
+#--------------------------------------------------------------------------------------------------
+# COMMANDS:
+#        /chatfilter or /cf - The general command for the AntiCurse plugin.
+#        /chatfilter add <word> - Adds a word to the filter list.
+#        /chatfilter remove <word> - Removes a word from the filter list.
+#        /chatfilter list - Shows the current filter list.
+#        /chatfilter clear - Clears the current filter list.
+#        /chatfilter reload - Reloads the config.yml for ChatFilter.
+#        /chatfilter help - Shows the ChatFilter help page.
+#--------------------------------------------------------------------------------------------------
+# PERMISSIONS:
+#         - chatfilter.* (to be able to use all of the ChatFilter commands and mechanics!)
+#         - chatfilter.add (to be able to use the "/chatfilter add <word>" command.)
+#         - chatfilter.remove (to be able to use the "/chatfilter remove <word>" command.)
+#         - chatfilter.list (to be able to use the "/chatfilter list" command.)
+#         - chatfilter.clear (to be able to use the "/chatfilter clear" command.)
+#         - chatfilter.bypass (to be able to bypass the filter and type as normal.)
+#         - chatfilter.reload (to be able to use the “/chatfilter reload” command.)
+#         - chatfilter.help (to be able to use the “/chatfilter help” command.)
+#--------------------------------------------------------------------------------------------------
+Options:
+#--------------------------------------------------------------------------------------------------
+#The prefix will only be shown to the user who runs the commands. To set no preifx just set it as ''.
+  prefix: '&5&l[&f&lChat&d&lFilter&5&l]&r '
+
+#This allows you to change whether the whole plugin is enabled or not. If this option is set
+#to false then any and all curse words will appear as normal for everyone to see in the chat!  
+  chat-filter-enabled: true
+
+#This allows you to change whether the message containing a curse word is cancelled or just filtered.
+#(If this option is set to false, any curse words the players use will be replaced with '*'s in chat!)
+  cancel-messages-with-curses: false
+  
+#This allows you to change the message that shows only if the above option is set to true.
+  message-cancelled-message: "&cYou are not allowed to use curse! &7Try again without the bad language..."
+  
+#This allows you to change the message that shows when you perform the clear command.  
+  clear-message: "&aYou have completely cleared the filter list!"
+
+#This allows you to change the message that shows when the list is empty and you try to remove or clear words.  
+  empty-list-message: "&cThe filter list is currently empty."
+
+#This allows you to change the message that shows when you perform the reload command.  
+  reload-message: "&aSuccessfully reloaded the &fChat&dFilter &aconfigs!"
+
+#This allows you to change the message that shows when a player doesn't have the right permissions.  
+  no-permissions-message: "&cSorry, &7you don't have the permissions to do this."
+
+#--------------------------------------------------------------------------------------------------
+Enabled-Worlds:
+#--------------------------------------------------------------------------------------------------
+#This allows you to select what worlds the plugin will work in (You can add as many as you want).
+#Make sure that all of your worlds are spelled correctly, with the right capital letters as well!
+
+  - world
+  - world1
+  - world2
+#-------------------------------------------------------------------------------------------------- 
+#
+# If you have any problems, issues, or even suggestions of how add or improve this plugin, then
+# please contact the plugin's developer on their SpigotMc page and send them a private message!
+#
+#----------------------######################---------------------------
+#                    Thank you so much for downloading !
+#----------------------######################---------------------------

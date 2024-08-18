@@ -1,0 +1,140 @@
+bosses:
+  zombie:
+    name: "&2&lKING ZOMBIE"
+    health: 1000
+    type: "ZOMBIE"
+    particle-effect: MOBSPAWNER_FLAMES
+    # Set melee-damage percentage
+    melee-damage:
+      by-player: "100%"
+      against-player: "100%"
+    spawn-point:
+      World: world
+      X: 0
+      Y: 100
+      Z: 0
+    spawn-daily:
+      enabled: true
+      time: '12:00'
+      max-duration-minutes: 15
+    abilities:
+      fireball:
+        enabled: true
+        max-interval: 60
+        max-height: 100
+        yield: 5
+      lightning:
+        enabled: true
+        max-interval: 60
+        max-height: 100
+        damage: 2
+      minions:
+        enabled: true
+        max-amount: 5
+        name: "&aKING ZOMBIE MINION"
+        health: 50
+      teleport:
+        enabled: true
+        max-interval: 60
+        max-height: 100
+        sound: ENTITY_ENDERMAN_TELEPORT
+      potion-effect:
+        enabled: true
+        max-interval: 60
+        max-height: 100
+        potion-effects:
+          - "BLINDNESS"
+          - "CONFUSION"
+          - "SLOW"
+        duration: 60
+        amplifier: 1
+        sound: ENTITY_GHAST_SCREAM
+        particle-effect: SMOKE
+    rewards:
+      killer:
+        - "eco give %player% 1000"
+      top-damage:
+        - "eco give %player% 500"
+      second-damage:
+        - "eco give %player% 200"
+      third-damage:
+        - "eco give %player% 100"
+      everyone:
+        - "eco give %player% 1000"
+  guardian:
+    name: "&5&lRAID GUARDIAN"
+    health: 500
+    type: "GUARDIAN"
+    particle-effect: MOBSPAWNER_FLAMES
+    melee-damage:
+      by-player: "100%"
+      against-player: "100%"
+    spawn-point:
+      World: world
+      X: 0
+      Y: 100
+      Z: 0
+    spawn-daily:
+      enabled: true
+      time: '11:00'
+      max-duration-minutes: 20
+    abilities:
+      fireball:
+        enabled: true
+        max-interval: 60
+        max-height: 100
+        yield: 5
+      lightning:
+        enabled: true
+        max-interval: 60
+        max-height: 100
+        damage: 2
+      minions:
+        enabled: true
+        max-amount: 5
+        name: "&dRAID GUARDIAN MINION"
+        health: 50
+      teleport:
+        enabled: true
+        max-interval: 60
+        max-height: 100
+        sound: ENTITY_ENDERMAN_TELEPORT
+      potion-effect:
+        enabled: true
+        max-interval: 60
+        max-height: 100
+        potion-effects:
+          - "BLINDNESS"
+          - "CONFUSION"
+          - "SLOW"
+        duration: 60
+        amplifier: 1
+        sound: ENTITY_GHAST_SCREAM
+        particle-effect: SMOKE
+    rewards:
+      killer:
+        - "eco give %player% 1000"
+      top-damage:
+        - "eco give %player% 500"
+      second-damage:
+        - "eco give %player% 200"
+      third-damage:
+        - "eco give %player% 100"
+      everyone:
+        - "eco give %player% 10"
+messages:
+  prefix: "&5&lBosses &8> "
+  reload: "&5&lConfiguration reloaded"
+  no-permission: "&cYou do not have permission to perform this command!"
+  incorrect-usage: "&c/boss reload | setspawn [type] | spawn [type]"
+  only-players: "&cOnly players can perform this command!"
+  no-boss-type: "&c%boss_type% is not a configured boss type!"
+  set-spawn: "&bBoss spawn point has been set for %boss_type%!"
+  boss-spawn: "&bA %boss_name% &bboss with &c&l%boss_health% HEARTS &bhas spawned at the boss arena!"
+  lightning-strike: "&c&lYOU HAVE BEEN STRIKED BY THE %boss_name% &c&lBOSS!"
+  boss-death-mysterious: "%boss_name% &bboss has died from mysterious causes!"
+  boss-death-player: "%boss_name% &bboss has just been killed by &a&l%player%"
+  max-duration-death: "%boss_name% &bboss has been automatically removed after %duration% minutes"
+  damagers-header: "&bTop Damagers:"
+  damagers-list: "&e%player%: %damage%"
+  damagers-footer: "&7------"

@@ -1,0 +1,21 @@
+lastAccountName: ShermyWormy123
+timestamps:
+  login: 1723939108798
+  logout: 1723939657558
+  lastteleport: 1723933808402
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 13960.182021782513
+  y: 64.0
+  z: 4358.871801861355
+  yaw: -139.0928
+  pitch: 14.700009
+lastlocation:
+  world: survival
+  x: 37900.65107535956
+  y: 44.0
+  z: 38485.69999998808
+  yaw: 85.650116
+  pitch: 83.55001
+money: '3360.0'

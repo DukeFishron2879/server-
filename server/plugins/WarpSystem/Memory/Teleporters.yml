@@ -1,0 +1,15 @@
+WarpSigns: []
+RandomTeleporter:
+  InteractBlocks: []
+PortalsV2: []
+Spawn:
+  actions:
+  - value:
+      destination:
+        id:
+          X: 104.0
+          Y: 65.0
+          Z: 210.0
+          World: world
+        type: 6
+  displayname: Spawn

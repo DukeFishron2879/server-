@@ -1,0 +1,29 @@
+lastAccountName: richard
+timestamps:
+  login: 1723853050415
+  logout: 1723855623985
+  lastteleport: 1723855347948
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 1862.556136756998
+  y: 84.0
+  z: -60.44665760755534
+  yaw: 262.80164
+  pitch: 31.199993
+homes:
+  home:
+    world: survival
+    x: 1862.4753604395953
+    y: 80.0
+    z: -60.24393753102757
+    yaw: -92.09847
+    pitch: 30.599993
+lastlocation:
+  world: survival
+  x: 1856.9844898645383
+  y: 14.0
+  z: -80.52515233418679
+  yaw: 249.00195
+  pitch: 7.9499927
+afk: false

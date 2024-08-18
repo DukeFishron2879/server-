@@ -1,0 +1,31 @@
+lastAccountName: ItsPounce
+timestamps:
+  login: 1723838539427
+  logout: 1723838777019
+  kits:
+    tools: 1723827317306
+  lastteleport: 1723838641047
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 1868.0868647818465
+  y: 80.0
+  z: -31.86085679834317
+  yaw: 325.0063
+  pitch: 28.200012
+nickname: citizen1
+homes:
+  home:
+    world: survival
+    x: 1854.3879669051457
+    y: 79.0
+    z: -51.19584686728522
+    yaw: 343.30627
+    pitch: 42.600014
+lastlocation:
+  world: survival
+  x: 1806.410437949615
+  y: 66.0
+  z: 42.267964594652796
+  yaw: 28.306335
+  pitch: 16.650011

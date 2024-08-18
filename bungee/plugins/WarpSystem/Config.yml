@@ -1,0 +1,13 @@
+WarpSystem:
+  Language: ENG
+  Redis: true
+  PlayerWarps:
+    Inactive:
+      #Time after an expiration. After that time, the PlayerWarp will be deleted.
+      #Inactive PlayerWarps cannot be used for teleportation purposes.
+      Time_After_Expiration: 1d, 0h, 0m
+  GlobalSpawnOptions: {}
+  IgnorePingErrors: false
+
+  #Some reported ping issues when using third-party-software that resulted in inaccessible servers. Toggle this to true to ignore ping errors.
+  #Attention: If toggled to true, some servers may be marked as online even they are offline.

@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "80f432b1-e8dc-3f68-bca4-b1fe4dcc78f1",
+    "name": "herobrine",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2dca1d30-c13f-36ee-8c96-0b7723f37ec5",
+    "name": "dukefishron28",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6e3d4af7-d85d-30b9-85a6-b324de9ee849",
+    "name": "dukefishron",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

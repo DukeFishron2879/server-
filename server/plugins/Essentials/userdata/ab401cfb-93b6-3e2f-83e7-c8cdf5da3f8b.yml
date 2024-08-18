@@ -1,0 +1,23 @@
+lastAccountName: Caleb_K
+timestamps:
+  login: 1723939201506
+  logout: 1723939775990
+  lastteleport: 1723938029327
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 12345.529527150666
+  y: 78.0
+  z: 24628.69999998808
+  yaw: 1.9500732
+  pitch: 24.299994
+lastlocation:
+  world: parkour
+  x: -2.4750666264364396
+  y: 57.0
+  z: -7.994714260444654
+  yaw: 79.50001
+  pitch: 19.799994
+homes: {}
+nickname: Caleb_K
+money: '9.5'

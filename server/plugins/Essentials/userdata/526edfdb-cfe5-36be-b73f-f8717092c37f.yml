@@ -1,0 +1,33 @@
+lastAccountName: fjsjs
+timestamps:
+  login: 1723940352509
+  logout: 1723939619763
+  lastteleport: 1723860529392
+  kits:
+    tools: 1723772170701
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 627.5456305777824
+  y: 69.0
+  z: 488.77889672973424
+  yaw: 115.375
+  pitch: 17.492188
+lastlocation:
+  world: survival
+  x: 13913.335275504998
+  y: 8.0
+  z: 32367.53997180278
+  yaw: -356.72656
+  pitch: 89.14844
+homes:
+  home:
+    world: survival
+    x: 13909.774578985385
+    y: 62.0
+    z: 32350.450322318888
+    yaw: -88.578125
+    pitch: 6.296875
+money: '275361.00'
+afk: false
+nickname: fjsjs

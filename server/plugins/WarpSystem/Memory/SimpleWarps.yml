@@ -1,0 +1,26 @@
+Warps:
+- LastChange: 1723673826018
+  Name: lobby
+  Location:
+    X: 96.9495
+    Pitch: 42.867
+    Y: 96.0
+    Z: 205.2612
+    World: world
+    Yaw: -177.2577
+  Created: 1723673826018
+  LastChanger: dukefishron28
+- LastChange: 1723675456204
+  Name: survival
+  Location:
+    Y: 75.0
+    World: survival
+  Created: 1723675456204
+  LastChanger: dukefishron28
+- LastChange: 1723675392905
+  Name: anarchy
+  Location:
+    Y: 72.0
+    World: anarchy
+  Created: 1723675392905
+  LastChanger: dukefishron28

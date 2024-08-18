@@ -1,0 +1,33 @@
+logoutlocation:
+  world: city
+  x: -1501.6799183666078
+  y: 64.0
+  z: 422.6050141714155
+  yaw: -220.57031
+  pitch: 41.976562
+timestamps:
+  logout: 1723926262055
+  login: 1723925672425
+  lastteleport: 1723904788730
+  kits:
+    tools: 1723905689295
+    food: 1723906336546
+lastAccountName: dukefishron28
+ipAddress: 0:0:0:0:0:0:0:1
+afk: false
+homes:
+  home:
+    world: survival
+    x: 13904.699999988079
+    y: 5.0
+    z: 32349.163894421246
+    yaw: -219.30469
+    pitch: 25.570312
+lastlocation:
+  world: world
+  x: 99.49320079855445
+  y: 95.0
+  z: 206.68364530601008
+  yaw: -143.01562
+  pitch: 8.921875
+nickname: god

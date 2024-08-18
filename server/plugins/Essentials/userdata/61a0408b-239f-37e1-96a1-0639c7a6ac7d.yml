@@ -1,0 +1,31 @@
+lastAccountName: chilly_willy364
+timestamps:
+  login: 1723939562694
+  logout: 1723939609833
+  lastteleport: 1723908063186
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 23911.28127116421
+  y: 65.0
+  z: 18833.85744894748
+  yaw: -263.9922
+  pitch: 0.1171875
+lastlocation:
+  world: city
+  x: -1427.5992988370663
+  y: 64.0
+  z: 432.0359741092797
+  yaw: -87.734375
+  pitch: 8.34375
+money: '213450.00'
+homes:
+  home:
+    world: survival
+    x: 23919.301094304807
+    y: 64.0
+    z: 18830.517270473214
+    yaw: -279.20312
+    pitch: 23.625
+nickname: skibidop
+afk: false

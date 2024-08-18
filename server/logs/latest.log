@@ -1,0 +1,87 @@
+[00:00:01] [Thread-109/INFO]: UUID of player Caleb_K is ab401cfb-93b6-3e2f-83e7-c8cdf5da3f8b
+[00:00:01] [Server thread/INFO]: Caleb_K[/[0:0:0:0:0:0:0:1]:60810] logged in with entity id 150070 at ([survival]12347.024567273738, 79.0, 24618.03261092894)
+[00:01:40] [Server thread/INFO]: tmiller issued server command: /sell redstone
+[00:01:40] [Server thread/INFO]: §atmiller §asold redstone for §a$3,840 §a(120 items at $32 each).
+[00:03:25] [Server thread/INFO]: tmiller issued server command: /sell redstone
+[00:03:25] [Server thread/INFO]: §atmiller §asold redstone for §a$416 §a(13 items at $32 each).
+[00:03:48] [Server thread/INFO]: tmiller issued server command: /home base
+[00:04:12] [Thread-110/INFO]: UUID of player chilly_willy364 is 61a0408b-239f-37e1-96a1-0639c7a6ac7d
+[00:04:12] [Server thread/INFO]: chilly_willy364[/[0:0:0:0:0:0:0:1]:36020] logged in with entity id 157019 at ([survival]21353.60175691434, 11.0, 27400.076313548343)
+[00:04:27] [Server thread/INFO]: chilly_willy364 lost connection: Disconnected
+[00:04:27] [Server thread/INFO]: chilly_willy364 left the game.
+[00:04:31] [Thread-111/INFO]: UUID of player chilly_willy364 is 61a0408b-239f-37e1-96a1-0639c7a6ac7d
+[00:04:31] [Server thread/INFO]: chilly_willy364[/[0:0:0:0:0:0:0:1]:55478] logged in with entity id 157287 at ([survival]21353.60175691434, 11.0, 27400.076313548343)
+[00:04:37] [Server thread/INFO]: chilly_willy364 issued server command: /home w
+[00:04:48] [Server thread/INFO]: chilly_willy364 issued server command: /home w
+[00:04:50] [Server thread/INFO]: chilly_willy364 lost connection: Disconnected
+[00:04:50] [Server thread/INFO]: chilly_willy364 left the game.
+[00:04:53] [Thread-112/INFO]: UUID of player chilly_willy364 is 61a0408b-239f-37e1-96a1-0639c7a6ac7d
+[00:04:53] [Server thread/INFO]: chilly_willy364[/[0:0:0:0:0:0:0:1]:50498] logged in with entity id 157677 at ([survival]23918.65240893418, 64.0, 18831.876546789208)
+[00:04:59] [Server thread/INFO]: KIWIOLO has just earned the achievement [Monster Hunter]
+[00:05:06] [Server thread/INFO]: tmiller issued server command: /sell granite
+[00:05:06] [Server thread/INFO]: §atmiller §asold stone for §a$192 §a(64 items at $3 each).
+[00:05:08] [Server thread/INFO]: chilly_willy364 lost connection: Disconnected
+[00:05:08] [Server thread/INFO]: chilly_willy364 left the game.
+[00:05:09] [Server thread/INFO]: tmiller issued server command: /sell stone
+[00:05:09] [Server thread/INFO]: §atmiller §asold stone for §a$114 §a(38 items at $3 each).
+[00:05:10] [Server thread/INFO]: ShermyWormy123 issued server command: /tpa Eecfinip
+[00:05:11] [Thread-113/INFO]: UUID of player chilly_willy364 is 61a0408b-239f-37e1-96a1-0639c7a6ac7d
+[00:05:11] [Server thread/INFO]: chilly_willy364[/[0:0:0:0:0:0:0:1]:49780] logged in with entity id 157926 at ([survival]23911.33260775834, 65.0, 18833.699936626403)
+[00:05:13] [Server thread/INFO]: tmiller issued server command: /sell cobblestone
+[00:05:13] [Server thread/INFO]: §atmiller §asold cobblestone for §a$354 §a(354 items at $1 each).
+[00:05:17] [Server thread/INFO]: Eecfinip issued server command: /tpaccepr
+[00:05:22] [Server thread/INFO]: Eecfinip issued server command: /tpaccept
+[00:05:22] [Server thread/INFO]: tmiller issued server command: /sell netheracct
+[00:05:25] [Server thread/INFO]: tmiller issued server command: /sell netheract
+[00:05:26] [Server thread/INFO]: chilly_willy364 lost connection: Disconnected
+[00:05:26] [Server thread/INFO]: chilly_willy364 left the game.
+[00:05:35] [Server thread/INFO]: tmiller issued server command: /sell netherack
+[00:05:40] [Server thread/INFO]: tmiller issued server command: /sell netherrack
+[00:05:48] [Server thread/INFO]: tmiller issued server command: /sell diorite
+[00:05:48] [Server thread/INFO]: §atmiller §asold stone for §a$198 §a(66 items at $3 each).
+[00:05:51] [Server thread/INFO]: tmiller issued server command: /sell andesite
+[00:05:51] [Server thread/INFO]: §atmiller §asold stone for §a$228 §a(76 items at $3 each).
+[00:05:59] [Server thread/INFO]: tmiller issued server command: /sell iron
+[00:06:02] [Thread-114/INFO]: UUID of player chilly_willy364 is 61a0408b-239f-37e1-96a1-0639c7a6ac7d
+[00:06:02] [Server thread/INFO]: chilly_willy364[/[0:0:0:0:0:0:0:1]:37570] logged in with entity id 158644 at ([survival]23911.33260775834, 65.0, 18833.699936626403)
+[00:06:04] [Server thread/INFO]: tmiller issued server command: /sell iron_ore
+[00:06:04] [Server thread/INFO]: §atmiller §asold iron_ore for §a$216 §a(12 items at $18 each).
+[00:06:23] [Server thread/INFO]: tmiller issued server command: /price
+[00:06:37] [Server thread/INFO]: chilly_willy364 issued server command: /sell sand
+[00:06:37] [Server thread/INFO]: §a~skibidop§r §asold sand for §a$17 §a(17 items at $1 each).
+[00:06:49] [Server thread/INFO]: chilly_willy364 lost connection: Internal Exception: java.io.IOException: Broken pipe
+[00:06:49] [Server thread/INFO]: chilly_willy364 left the game.
+[00:06:59] [Server thread/INFO]: fjsjs lost connection: Disconnected
+[00:06:59] [Server thread/INFO]: fjsjs left the game.
+[00:07:37] [Server thread/INFO]: ShermyWormy123 lost connection: Disconnected
+[00:07:37] [Server thread/INFO]: ShermyWormy123 left the game.
+[00:09:17] [Server thread/INFO]: KIWIOLO issued server command: /rtp
+[00:09:20] [Server thread/INFO]: KIWIOLO issued server command: /rtp
+[00:09:23] [Server thread/INFO]: KIWIOLO issued server command: /rtp
+[00:09:27] [Server thread/WARN]: KIWIOLO moved wrongly!
+[00:09:35] [Server thread/INFO]: Caleb_K lost connection: Disconnected
+[00:09:35] [Server thread/INFO]: Caleb_K left the game.
+[00:09:52] [Server thread/INFO]: KIWIOLO has just earned the achievement [Cow Tipper]
+[00:10:35] [Server thread/INFO]: KIWIOLO lost connection: Disconnected
+[00:10:35] [Server thread/INFO]: KIWIOLO left the game.
+[00:14:19] [Server thread/INFO]: tmiller issued server command: /home base
+[00:15:36] [Server thread/INFO]: Eecfinip issued server command: /seed
+[00:16:23] [Server thread/INFO]: tmiller issued server command: /kit tools
+[00:18:19] [Server thread/INFO]: tmiller issued server command: /home fortress
+[00:19:08] [Server thread/INFO]: Eecfinip issued server command: /sethome jungle
+[00:19:12] [Thread-116/INFO]: UUID of player fjsjs is 526edfdb-cfe5-36be-b73f-f8717092c37f
+[00:19:12] [Server thread/INFO]: fjsjs[/[0:0:0:0:0:0:0:1]:52148] logged in with entity id 164061 at ([survival]627.5456305777824, 69.0, 488.77889672973424)
+[00:19:31] [Async Chat Thread - #16/INFO]: [[0;37;1msurvival[0;37;1m]<~Sammy[m> erm, HEY![m
+
+[00:19:32] [Async Chat Thread - #16/INFO]: [[0;37;1msurvivaln[0;37;1m]<tmiller> hey diddy![m
+
+[00:19:37] [Async Chat Thread - #16/INFO]: [[0;37;1msurvivaln[0;37;1m]<tmiller> yeah im coming to the party[m
+
+[00:21:01] [Server thread/INFO]: tmiller issued server command: /home base
+[00:21:18] [Server thread/INFO]: fjsjs issued server command: /sell seed
+[00:21:18] [Server thread/INFO]: §afjsjs §asold seeds for §a$2 §a(1 items at $2 each).
+[00:21:27] [Server thread/INFO]: fjsjs issued server command: /sell glowsto e
+[00:21:31] [Server thread/INFO]: fjsjs issued server command: /sell glowstone
+[00:21:37] [Server thread/INFO]: fjsjs issued server command: /sell glowstonedust
+[00:21:37] [Server thread/INFO]: §afjsjs §asold glowstone_dust for §a$40 §a(4 items at $10 each).
+[00:23:33] [Server thread/INFO]: tmiller issued server command: /home fortress

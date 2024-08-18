@@ -1,0 +1,14 @@
+Background_Item:
+  Type: STAINED_GLASS_PANE
+  Data: 15
+  Durability: 15
+  Amount: 1
+  HideName: true
+Icons:
+- item:
+    Type: GLOWSTONE
+    Amount: 1
+    Name: '&rlobby'
+  name: lobby
+  permission: everyone.
+  slot: 1

@@ -1,0 +1,24 @@
+lastAccountName: KIWIOLO
+timestamps:
+  login: 1723938220300
+  logout: 1723939835083
+  kits:
+    tools: 1723765858027
+  lastteleport: 1723925499848
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 41171.43812454981
+  y: 80.0
+  z: 15033.569058051682
+  yaw: -85.38281
+  pitch: 2.734375
+homes: {}
+lastlocation:
+  world: survival
+  x: 15519.300000011921
+  y: 64.0
+  z: 17570.69999998808
+  yaw: 239.08594
+  pitch: 12.484375
+nickname: Erika

@@ -1,0 +1,22 @@
+lastAccountName: rizzy
+timestamps:
+  login: 1723840413454
+  logout: 1723841109815
+  kits:
+    tools: 1723840833621
+ipAddress: 0:0:0:0:0:0:0:1
+logoutlocation:
+  world: survival
+  x: 1845.699999988079
+  y: 74.0
+  z: -57.184496596023145
+  yaw: 171.61084
+  pitch: 26.70001
+homes:
+  home:
+    world: survival
+    x: 1853.4590547116377
+    y: 79.0
+    z: -60.65559540901532
+    yaw: 277.51086
+    pitch: -3.7499924

@@ -1,0 +1,32 @@
+lastAccountName: tmiller
+timestamps:
+  login: 1723937749900
+  kits:
+    tools: 1723940183351
+  lastteleport: 1723930749249
+  logout: 1723937748204
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: parkour
+  x: -18.708910047810093
+  y: -123.83780314055434
+  z: 2.0862000337006386
+  yaw: 96.3
+  pitch: 38.7
+homes:
+  home:
+    world: survival
+    x: 23919.714565339087
+    y: 64.0
+    z: 18829.370264422945
+    yaw: -262.31583
+    pitch: 14.249994
+logoutlocation:
+  world: survival
+  x: 37043.47542301346
+  y: 11.0
+  z: 49823.66967636629
+  yaw: -176.15105
+  pitch: 22.969645
+money: '8350.0'
+afk: false

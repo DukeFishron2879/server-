@@ -1,0 +1,6 @@
+prefix: '&4MSG &8}'
+noplayer: '&aYou are most a Player!'
+wronguse: '&cFalse Usage! &4Use /msg <Player> <Message>'
+notonline: '&cThe Player is not online!'
+layout: '&cme &r-> &a %playerB% &8> %message%'
+layout1: '&c%playerA% &r-> &cme &8> %message%'
